@@ -2,6 +2,7 @@
   "name": "course-platform",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://orko333.github.io/course-platform",
   "dependencies": {
     "@fortawesome/fontawesome-free": "^6.7.2",
     "@fortawesome/free-brands-svg-icons": "^6.7.2",
@@ -23,8 +24,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
-    "homepage": "https://Orko333.github.io/course-platform"
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
